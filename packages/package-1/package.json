@@ -1,0 +1,22 @@
+{
+  "name": "package-1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "何文涛 <hewentao@xiaomi.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/package-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.pt.mi.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
