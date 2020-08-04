@@ -11,6 +11,8 @@
 # 安装各packages依赖 lerna bootstrap
 
 
+# lerna publish
+
 # 我的create创建的是lib文件夹，他创建的是src文件夹
 # 有什么区别吗 还是做了配置
 
